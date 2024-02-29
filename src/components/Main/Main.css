@@ -1,0 +1,67 @@
+main .pets{
+    height: 70vh;
+    width: 98vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid rgba(126, 77, 21, 0.637)
+
+    }
+
+
+main h2{
+    font-family: cursive;
+    color: #361c03;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+main img{
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 20%;
+    
+}
+
+main form{
+
+    height: 10vh;
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 6%;
+         
+  }
+
+  main button{
+    font-size: 0.9rem;
+    border: solid #C0C0C0 2px;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 10%;
+    border-radius: 10%;
+    margin-left: 4.7rem;
+  }
+
+  main input{
+margin: 5%;
+background-color: #361c03;
+
+
+  }
+
+  main p{
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-left: 5.8rem;
+    margin-bottom: 1rem;
+     }
+
+
+
+  
