@@ -7,9 +7,9 @@ function Footer() {
 
 //    Meninas, eu tirei esse negócio aqui, pois, ele estava aparecendo toda hora
 //    e eu não soube resolver. Mas, resolvi deixar aqui para vocês verem o funcionamento dele.
-    // setTimeout(()=>{
-    //     alert("Bem-Vindo(a)!")
-    // }, 4000)
+    setTimeout(()=>{
+         alert("Bem-Vindo(a)!")
+   }, 6000)
 
 
     
